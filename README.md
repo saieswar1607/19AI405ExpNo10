@@ -2,9 +2,9 @@
 <h3>Name: Sai Eswar Kandukuri<br>
 <h3>Register Number: 212221240020<br>
 
-# AIM:
+## AIM:
 To solve Implementation of Classical Planning Algorithm using python.
-# Algorithm or Steps Involved:
+## Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
   <li>Define the goal state</li>
@@ -13,7 +13,7 @@ To solve Implementation of Classical Planning Algorithm using python.
   <li>Print the plan</li>
 </ol>
 
-# Example - 1
+### Example - 1
 ```
 initial_state = {'A': 'Table', 'B': 'Table'}
 goal_state = {'A': 'B', 'B': 'Table'}
@@ -26,11 +26,11 @@ actions = {
 plan = find_plan(initial_state, goal_state, actions)
 print(plan)
 ```
-# Output:
+### Output:
 ```
 ['move_A_to_B']
 ```
-# Example - 2
+### Example - 2
 ```
 initial_state = {'A': 'Table', 'B': 'Table', 'C': 'Table'}
 goal_state = {'A': 'B', 'B': 'C', 'C': 'Table'}
@@ -44,12 +44,12 @@ actions = {
 plan = find_plan(initial_state, goal_state, actions)
 print(plan)
 ```
-# Output:
+### Output:
 ```
 ['move_A_to_B', 'move_B_to_C']
 ```
 
-# Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
+## Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
 <h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
 
 ## Program:

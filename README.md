@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-<br>Name: Sai Eswar Kandukuri</br>
-<br>Register Number: 212221240020</br>
+<h3>Name: Sai Eswar Kandukuri<br>
+<h3>Register Number: 212221240020<br>
 
 # AIM:
 To solve Implementation of Classical Planning Algorithm using python.
